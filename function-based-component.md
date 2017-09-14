@@ -1,0 +1,7 @@
+```
+export ()={
+  return(
+    <div></div>
+  )
+}
+```
